@@ -23,3 +23,7 @@ eventid - the primary key for linking other datasets
 twitter_time - timestamp from Twiter post if relevant  
 rec_nr - record number for source or comment  
 comment - source url or comment  
+
+
+## Possible sources for further validation/identification of cases:
+NRL match replays - https://www.nrl.com/news/topic/match-replays
