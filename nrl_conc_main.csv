@@ -1,0 +1,461 @@
+eventid,year,round,date,team1,team2,player,twitter_time,returned,event_minute
+1,2014,1,Mar-6,sou,syd,Frank Paul Nuuausala,1:32 AM,yes,28
+2,2014,1,Mar-7,cby,bri,Todd Lowrie,2:31 AM,no,56
+3,2014,1,Mar-7,cby,bri,Mitch Brown,,no,42
+4,2014,1,Mar-7,pen,new,Kurt Gidley,10:19 PM,no,36
+5,2014,1,Mar-7,pen,new,Tyrone Roberts,11:05 PM,no,64
+6,2014,1,Mar-7,pen,new,Adam Docker,11:05 PM,no,64
+7,2014,1,Mar-8,sgi,wst,Liam Fulton,9:07 AM,no,24
+8,2014,1,Mar-8,par,war,Tim Mannah,11:37 PM,yes,1
+9,2014,2,Mar-15,mel,pen,James Segeyaro,,,
+10,2014,3,Mar-21,wst,sou,Greg Inglis,1:56 AM,no,5
+11,2014,3,Mar-21,wst,sou,Liam Fulton,3:27 AM,no,64
+12,2014,3,Mar-21,wst,sou,Tim Simona,,,
+13,2014,3,Mar-21,wst,sou,Pat Richards,,,
+14,2014,3,Mar-21,bri,syd,Jake Friend,3:46 AM,yes,35
+15,2014,3,Mar-22,man,par,FuiFui MoiMoi,10:16 PM,yes,53
+16,2014,4,Mar-28,syd,man,Glenn Stewart,2:06 AM,no,19
+17,2014,4,Mar-28,war,wst,James Tedesco,9:46 PM,no,29
+18,2014,4,Mar-28,war,wst,Cory Paterson,9:22 PM,no,11
+19,2014,4,Mar-29,par,pen,Jeremy Latimore,12:53 AM,yes,55
+20,2014,4,Mar-29,cby,mel,James Graham,1:38 AM,yes,2
+21,2014,4,Mar-30,sou,can,Joel Edwards,,no,48
+22,2014,5,Apr-4,pen,can,Joel Edwards,11:57 PM,no,13
+23,2014,6,Apr-11,new,can,Matt Allwood,10:12 PM,yes,6
+24,2014,6,Apr-11,new,can,Kade Snowden,11:28 PM,no,63
+25,2014,6,Apr-11,new,can,Kurt Gidley,11:22 PM,yes,58
+26,2014,6,Apr-12,war,cby,Ben Matulino,9:47 PM,no,36
+27,2014,6,Apr-12,man,cro,Wade Graham,10:31 PM,yes,18
+28,2014,6,Apr-13,war,cby,Sebastine Ikahihifo,,no,
+29,2014,6,Apr-14,mel,sgi,Ryan Hoffman,3:23 AM,yes,55
+30,2014,6,Apr-14,mel,sgi,Joel Thompson,5:52 AM,no,79
+31,2014,7,Apr-17,sou,cby,Dave Tyrrell,,yes,
+32,2014,7,Apr-17,sou,cby,Kyle Turner,11:46 PM,no,30
+33,2014,7,Apr-19,sgi,war,Dominique Peyroux,1:02 AM,yes,26
+34,2014,7,Apr-19,can,mel,Jack Wighton,10:46 PM,yes,30
+35,2014,7,Apr-20,par,wst,Mitch Allgood,11:41 PM,no,21
+36,2014,8,Apr-25,cro,pen,Sosaia Feki,11:04 PM,yes,40
+37,2014,8,Apr-25,bri,sou,Cameron McInnes,4:42 AM,,67
+38,2014,aus nz test,May-2,aus,nz,Sam Moa,3:20 AM,yes,13
+39,2014,9,May-9,syd,wst,Pat Richards,4:12 AM,,63
+40,2014,9,May-9,nql,bri,Jonathan Thurston,3:21 AM,yes,26
+41,2014,9,May-9,nql,bri,David Hala,,no,38
+42,2014,9,May-10,new,pen,Kurt Gidley,9:28 PM,,17
+43,2014,9,May-10,new,pen,Nigel Plum,9:40 PM,no,30
+44,2014,9,May-10,new,pen,Adam Docker,,,
+45,2014,9,May-10,mel,man,David Williams,4:46 AM,no,48
+46,2014,9,May-10,gld,sou,Ashley Harrison,,no,77
+47,2014,10,May-12,par,cro,Manu Mau,,,
+48,2014,10,May-16,sou,mel,Kirisome Auvaa,3:55 AM,,41
+49,2014,10,May-16,sou,mel,Kyle Turner,3:02 AM,,12
+50,2014,10,May-16,bri,gld,William Zillman,3:27 AM,no,19
+51,2014,10,May-17,can,pen,Matt Robinson,9:42 PM,,35
+52,2014,10,May-18,war,cby,Konrad Hurrell,,yes,
+53,2014,11,May-23,cby,syd,Sam Perrett,3:43 AM,,39
+54,2014,11,May-23,cby,syd,Jared Waerea-Hargreaves,4:26 AM,,62
+55,2014,11,May-23,cby,syd,Michael Ennis,4:48 AM,,77
+56,2014,11,May-24,wst,bri,Luke Brooks,4:07 AM,yes,70
+57,2014,13,Jun-6,par,nql,Kenny Edwards,4:17 AM,,71
+58,2014,13,Jun-7,sou,war,George Burgess,5:16 AM,yes,33
+59,2014,13,Jun-7,sou,war,Jason Clark,,,62
+60,2014,13,Jun-7,new,wst,Braith Anasta,9:38 PM,yes,26
+61,2014,13,Jun-7,new,wst,Curtis Sironen,10:10 PM,no,33
+62,2014,13,Jun-7,gld ,pen,Adam Docker,,,
+63,2014,13,Jun-9,can,bri,Jack Reed,3:28 AM,yes,61
+64,2014,14,Jun-13,sou,wst,Dene Halatau,4:13 AM,no,57
+65,2014,14,Jun-13,sou,wst,Joe Picker,3:36 AM,,39
+66,2014,14,Jun-14,syd,new,Roger Tuivasa Sheck,,no,71
+67,2014,15,Jun-21,war,bri,Nathan Friend,1:58 AM,yes,50
+68,2014,15,Jun-21,war,bri,Dale Copley,2:04 AM,,70
+69,2014,15,Jun-22,gld,sgi,Ben Ridge,,,34
+70,2014,16,Jun-27,man,syd,James Hasson,3:23 AM,no,34
+71,2014,16,Jun-27,bri,cro,Luke Lewis,2:55 AM,no,2
+72,2014,16,Jun-28,wst,can,Tim Simona,1:01 AM,,20
+73,2014,16,Jun-28,war,pen,Jayson Bukuya,10:20 PM,no,52
+74,2014,16,Jun-28,war,pen,Nathan Friend,,yes,
+75,2014,17,Jul-5,wst,pen,Elijah Taylor,11:34 PM,,69
+76,2014,17,Jul-5,wst,pen,Adam Docker,11:36 PM,,70
+77,2014,NA,Jul-9,qld,nsw,Will Chambers,4:02 AM,yes,33
+78,2014,18,Jul-14,pen,bri,Adam Docker,3:26 AM,,64
+79,2014,18,Jul-14,pen,bri,Corey Parker,2:28 AM,yes,
+80,2014,19,Jul-18,cro,nql,Jacob Gagan,3:28 AM,no,17
+81,2014,19,Jul-18,par,sou,Ben Lowe,3:02 AM,,12
+82,2014,19,Jul-18,syd,pen,Jake Friend,10:33 PM,yes,10
+83,2014,19,Jul-19,mel,can,Josh Papalii,1:15 AM,yes,30
+84,2014,19,Jul-19,bri,war,Josh McGuire,4:08 AM,,64
+85,2014,19,Jul-19,bri,war,Todd Lowrie,4:03 AM,,59
+86,2014,19,Jul-19,bri,war,Konrad Hurrell,3:51 AM,no,49
+87,2014,19,Jul-19,new,gld,Darius Boyd,9:11 PM,yes,2
+88,2014,19,Jul-19,new,gld,Beau Falloon,9:26 AM,yes,3
+89,2014,20,Jul-25,pen,cro,Michael Lichaa,10:23 PM,,16
+90,2014,20,Jul-28,can,sou,Kyle Turner,2:25 AM,yes,21
+91,2014,21,Aug-1,man,bri,Steve Matai,,,25
+92,2014,21,Aug-1,man,bri,Brett Stewart,,,
+93,2014,21,Aug-2,nql,gld,Brad Takairangi,2:01 AM,,59
+94,2014,21,Aug-2,syd,sgi,Michael Cooper,4:05 AM,yes,69
+95,2014,21,Aug-4,wst,mel,Jesse Bromwich,2:19 AM,no,16
+96,2014,22,Aug-8,sou,man,Kyle Turner,3:19 AM,,29
+97,2014,22,Aug-8,bri,cby,Dale Finucaine,4:20 AM,no,39
+98,2014,22,Aug-9,nql,wst,Keith Lulia,3:17 AM,no,35
+99,2014,22,Aug-9,sgi,pen,David Simmons,10:47 PM,no,35
+100,2014,22,Aug-9,new,mel,Robbie Rochow,,,
+101,2014,22,Aug-10,war,cro,Dane Nielsen,,no,
+102,2014,23,Aug-15,par,cby,Josh Jackson,3:24 AM,no,22
+103,2014,23,Aug-18,pen,nql,Patrick Kaufusi,12:46 AM,,
+104,2014,25,Aug-28,cby,sou,Chris McQueen,,,
+105,2014,25,Aug-29,new,par,Korbin Sims,10:45 PM,no,38
+106,2014,25,Aug-29,new,par,Tim Mannah,10:37 PM,yes,16
+107,2014,25,Aug-30,syd,mel,Tim Glasby,3:11 AM,,50
+108,2014,25,Aug-30,syd,mel,Dayne Weston,3:51 AM,,57
+109,2014,25,Aug-31,war,gld,Sebastine Ikahihifo,,,
+110,2014,25,Sep-1,nql,cro,Tim Robinson,2:26 AM,yes,21
+111,2014,26,Sep-5,mel,bri,Corey Parker,3:30 AM,yes,32
+112,2014,26,Sep-5,mel,bri,Tohu Harris,4:24 AM,,63
+113,2014,26,Sep-6,nql,man,Tariq Sims,2:55 AM,yes,5
+114,2014,26,Sep-6,new,sgi,Joey Leilua,9:54 PM,no,18
+115,2014,26,Sep-6,gld,cby,David Klemmer,10:45 PM,no,36
+116,2014,26,Sep-6,gld,cby,David Mead,11:23 PM,yes,56
+117,2014,26,Sep-7,pen,war,Lewis Brown,2:59 AM,,62
+118,2014,qf1,Sep-13,syd,pen,Brent Kite,1:07 AM,yes,9
+119,2014,qf1,Sep-13,syd,pen,Michael Jennings,1:31 AM,yes,30
+120,2014,pf2,Sep-26,sou,syd,Frank Paul Nuuausala,4:08 AM,,
+121,2014,pf2,Sep-26,sou,syd,Kyle Turner,3:18 AM,yes,15
+122,2014,pf2,Sep-26,sou,syd,Isaac Liu,,yes,
+123,2014,pf1,Sep-27,pen,cby,Dean Whare,4:31 AM,,66
+124,2014,gf,Oct-5,cby,sou,Greg Eastwood,3:16 AM,,68
+125,2014,gf,Oct-5,cby,sou,George Burgess,2:00 AM,yes,23
+126,2014,gf,Oct-5,cby,sou,Dave Tyrrell,,no,68
+127,2015,1,Mar-5,bri ,sou,Tom Burgess,,,24
+128,2015,1,Mar-5,bri ,sou,Ben Lowe,,,11
+129,2015,1,Mar-6,new,war,Suaia Matagi,10:16 PM,,33
+130,2015,1,Mar-6,new,war,Tyrone Roberts,9:57 PM,yes,32
+131,2015,1,Mar-6,new,war,Thomas Leuluai,10:07 PM,,
+132,2015,1,Mar-7,gld,wst,Ava Seumanufagai,1:23 AM,no,
+133,2015,1,Mar-7,gld,wst,Martin Taupau,12:34 AM,yes,
+134,2015,1,Mar-7,gld,wst,William Zillman,,,
+135,2015,1,Mar-6,new,war,James McManus,,,45
+136,2015,1,Mar-6,new,war,Tyrone Roberts,3:58 PM,yes,6
+137,2015,1,Mar-7,gld,wst,Matt Robinson,,,
+138,2015,2,Mar-13,cro,bri,Adam Blair,4:06 AM,,67
+139,2015,2,Mar-14,man,mel,Will Chambers,2:56 AM,,
+140,2015,2,Mar-15,sou,syd,Adam Reynolds,,yes,
+141,2015,2,Mar-14,nql,new,Justin ONeill,,,
+142,2015,2,Mar-16,wst,sgi,Martin Kapow,,no,80
+143,2015,2,Mar-20,man,cby,Brayden Wiliame,1:55 AM,yes,3
+144,2015,3,Mar-21,war,par,Nathan Peats,,yes,7
+145,2015,3,Mar-20,bri ,nql,Josh McGuire,,no,20
+146,2015,3,Mar-21,war,par,Isaac De Gois,,,
+147,2015,3,Mar-22,gld,new,Jarrod Mullen,2:12 AM,,74
+148,2015,3,Mar-23,syd,pan,James Segeyaro,,,
+149,2015,4,Mar-28,sgi,man,Daly Cherry-Evans,,,77
+150,2015,4,Mar-30,nql,mel,Young Tonumaipea,,,12
+151,2015,4,Mar-27,wst,can,Sam Perrett,,yes,
+152,2015,3,Mar-21,can,sgi,Shannon Boyd,,,
+153,2015,4,Mar-28,gld,cro,Wade Graham,,yes,10
+154,2015,5,Apr-5,syd,cro,Paul Gallen,,yes,27
+155,2015,5,Apr-6,par,wst,Robbie Farah,3:43 PM,yes,
+156,2015,6,Apr-11,par,gld,Darcy Lussick,4:28 PM,yes,
+157,2015,7,Apr-18,new,par,Richard Faaoso,11:44 PM,no,
+158,2015,8,Apr-24,cby,wst,Pat Richards,,yes,26
+159,2015,8,Apr-25,new,nql,Granville,2:16 PM,,
+160,2015,8,Apr-25,mel,man,Will Chambers,1:53 AM,yes,
+161,2015,8,Apr-25,mel,man,Marika Koroibete,2:50 AM,yes,65
+162,2015,9,May-8,bri,pen,Watene-Zelezniak,9:22 PM,,70
+163,2015,9,May-10,par,mel,Richard Faaoso,12:18 AM,yes,
+164,2015,9,May-11,sou,sgi,Chris Grevsmuhl,3:38 AM,no,
+165,2015,10,May-15,cby,syd,James Graham,,no,30
+166,2015,10,May-16,mel,sou,Chris Grevsmuhl,3:05 AM,yes,
+167,2015,10,May-16,mel,sou,Dale Finucane,3:52 AM,yes,
+168,2015,10,May-16,par,war,Ryan Hoffman,3:13 PM,,3
+169,2015,10,May-17,new,wst,Chris Lawrence,12:17 AM,yes,
+170,2015,10,May-17,new,wst,Peter(?) Mataútia,12:17 AM,yes,
+171,2015,11,May-25,new,bri,Kurt Gidley,3:17 AM,no,
+172,2015,12,May-30,nql,man,Steve Matai,2:55 AM,yes,
+173,2015,12,May-30,nql,man,Antonio Winterstein,3:38 AM,no,45
+174,2015,12,May-30,gld,sou,Greg Inglis,4:22 PM,no,
+175,2015,13,Jun-6,sou,war,David Tyrrell,3:48 AM,yes,
+176,2015,13,Jun-6,sou,war,Simon Mannering,1:10 AM,yes,33
+177,2015,13,Jun-6,pen,mel,Adam Docker,4:08 AM,no,
+178,2015,13,Jun-8,par,nql,Ray Thompson,2:41 AM,no,
+179,2015,14,Jun-13,war,syd,Nathan Friend,2:36 AM,no,65
+180,2015,14,Jun-15,mel,par,Richard Kennar,3:34 AM,,
+181,2015,soo,Jun-17,qld,nsw,Ryan Hoffman,9:02 PM,,
+182,2015,15,Jun-19,man,wst,Kevin Naiqama,4:46 AM,,
+183,2015,15,Jun-20,gld,war,Nathan Friend,12:39 AM,yes,3
+184,2015,16,Jun-27,war,can,Blake Austin,4:18 PM,,
+185,2015,17,Jul-3,pen,sou,Ben Lowe,3:26 AM,yes,
+186,2015,17,Jul-3,pen,sou,Nigel Plum,4:32 AM,,
+187,2015,17,Jul-3,pen,sou,David Tyrrell,4:25 AM,no,
+188,2015,18,Jul-10,can,new,Peter(?) Mataútia,4:17 AM,,
+189,2015,18,Jul-11,pen,syd,Nigel Plum,2:00 AM,,
+190,2015,19,Jul-18,new,gld,Tyler Randell,12:52 AM,no,
+191,2015,19,Jul-18,new,gld,Daniel Mortimer,2:16 AM,no,65
+192,2015,19,Jul-20,man,nql,Ligi Sao,3:33 AM,,
+193,2015,20,Jul-24,bri,gld,Kane Elgey,9:08 PM,no,
+194,2015,20,Jul-25,war,man,Raymond Faitala-Mariner,10:25 PM,yes,
+195,2015,20,Jul-25,war,man,Steve Matai,11:18 PM,no,
+196,2015,20,Jul-25,mel,sgi,Tim Glasby,12:51 AM,,15
+197,2015,20,Jul-25,sou,new,James McManus,2:49 AM,no,7
+198,2015,20,Jul-27,nql,par,Nathan Peats,3:35 AM,no,73
+199,2015,21,Aug-1,man,bri,Jordan Kahu,2:46 AM,yes,5
+200,2015,21,Aug-1,sgi,new,Kade Snowden,9:21 PM,no,13
+201,2015,21,Aug-2,sou,pen,Kyle Turner,12:27 AM,no,45
+202,2015,21,Aug-3,par,gld,Tim Mannah,2:26 AM,,22
+203,2015,22,Aug-8,par,pen,David Peachey,3:53 AM,,47
+204,2015,22,Aug-9,new,syd,Nathan Friend,11:42 PM,yes,25
+205,2015,23,Aug-15,wst,new,Dene Halatau,4:29 PM,no,
+206,2015,23,Aug-16,can,man,Jake Trbojevic,2:17 PM,,
+207,2015,24,Aug-21,sou,cby,"James Graham
+",9:30 PM,,
+208,2015,24,Aug-21,sou,cby,Tim Browne,8:26 PM,,25
+209,2015,24,Aug-22,par,cro,Ricky Leutele,4:13 PM,,
+210,2015,25,Aug-29,mel,nql,Rory Kostjasyn,8:57 PM,no,
+211,2015,26,Sep-3,bri ,mel,Darius Boyd,9:27 PM,,68
+212,2015,26,Sep-4,syd,sou,Glenn Stewart,9:20 PM,,
+213,2015,26,Sep-5,pen,new,James Segeyaro,3:30 PM,,
+214,2015,qf1,Sep-11,syd,mel,Dale Finucane,9:13 PM,,
+215,2015,pf1,Sep-26,mel,nql,Antonio Winterstein,8:58 PM,,
+216,2016,1,Mar-3,par,bri,"Norman
+",8:10 PM,,
+217,2016,1,Mar-5,can,pen,Campbell-Gillard,2:50 PM,yes,
+218,2016,1,Mar-5,nql,cro,"Antonio Winterstein
+",8:01 PM,,
+219,2016,1,Mar-5,nql,cro,Luke Lewis,8:05 PM,yes,
+220,2016,2,Mar-10,pen,cby,Aiden Tolman,7:44 PM,no,
+221,2016,2,Mar-11,bri,war,Blake Ayshford,7:46 PM,no,
+222,2016,3,Mar-18,cby,par,Sam Kasiano,8:38 PM,,
+223,2016,3,Mar-18,cby,par,Tim Mannah,8:38 PM,,
+224,2016,3,Mar-21,man,cro,Jack Bird,6:37 PM,,
+225,2016,4,Mar-25,bri,nql,Jordan Kahu,7:54 PM,,
+226,2016,4,Mar-28,wst,par,Tim Grant,3:41 PM,no,
+227,2016,6,Apr-10,cro,gld,Luke Lewis,,no,
+228,2016,6,Apr-10,cro,"gld
+",James Maloney,2:31 PM,,
+229,2016,6,Apr-10,cro,"gld
+",Daniel Mortimer,2:39 PM,,
+230,2016,7,Apr-14,man,par,Junior Paulo,,?,
+231,2016,7,Apr-16,"bri
+",new,Nathan Ross,,?,
+232,2016,7,Apr-16,"bri
+",new,Tyler Randell,,?,
+233,2016,7,Apr-16,"bri
+",new,Jarrod Mullen,7:52 PM,no,
+234,2016,7,Apr-17,wst,mel,Tim Glasby,4:49 PM,no,
+235,2016,7,Apr-17,wst,mel,James Tedesco,5:36 PM,,
+236,2016,8,Apr-23,cby,"gld
+",Greg Bird,4:10 PM,,48
+237,2016,8,Apr-25,sgi,syd,Mitchell Aubusson,4:52 PM,,28
+238,2016,8,Apr-25,sgi,syd,Mitch Rein,5:48 PM,,
+239,2016,9,Apr-29,par,cby,Danny Wicks,9:17 PM,,
+240,2016,9,Apr-29,par,cby,Josh Reynolds,9:30 PM,,
+241,2016,9,Apr-30,syd,new,Joe Burgess,6:05 PM,,
+242,2016,Tonga Samoa test,May-7,tga,sam,Kaysa Pritchard,9:02 PM,yes,
+243,2016,10,May-12,sgi,can,Euan Aitken,9:11 PM,,
+244,2016,10,May-13,par,sou,Isaac De Gois,8:40 PM,yes,
+245,2016,10,May-13,par,sou,David Gower,9:29 PM,yes,
+246,2016,10,May-15,wst,cby,Tim Simona,4:41 PM,yes,
+247,2016,10,May-15,wst,cby,Moses Mbye,4:59 PM,,
+248,2016,11,May-22,pen,gld,Greg Bird,3:12 PM,yes,35
+249,2016,11,May-22,pen,gld,Jamie Soward,3:12 PM,yes,
+250,2016,11,May-22,cby,syd,Tim Browne,5:48 PM,no,
+251,2016,13,Jun-3,can,man,Jamie Buhrer,9:15 PM,,
+252,2016,13,Jun-4,mel,pen,Waqa Blake,8:21 PM,yes,
+253,2016,14,Jun-11,par,gld,Chris McQueen,5:54 PM,no,
+254,2016,16,Jun-25,cro,war,Andrew Fifita,6:52 PM,,
+255,2016,16,Jun-27,nql,man,Brayden Wiliame,8:14 PM,no,
+256,2016,17,Jun-30,syd,cby,Raymond Faitala-Mariner,9:35 PM,,
+257,2016,17,Jul-1,bri,mel,Corey Oates,8:15 PM,no,
+258,2016,17,Jul-1,bri,mel,Jordan McLean,8:24 PM,no,
+259,2016,17,Jul-3,sou,nql,Justin ONeill,4:24 PM,,
+260,2016,18,Jul-11,can,nql,Paul Vaughan,8:14 PM,no,
+261,2016,18,Jul-11,can,nql,Ben Hannant,8:26 PM,,
+262,2016,19,Jul-15,sgi,gld,Fafai Loa,8:03 PM,yes,
+263,2016,19,Jul-16,sou,bri,Angus Crichton,9:08 PM,,
+264,2016,19,Jul-17,new,mel,Trent Hodkinson,2:47 PM,,
+265,2016,19,Jul-17,pen,par,Danny Wicks,4:14 PM,no,
+266,2016,20,Jul-22,bri,pen,Waqa Blake,9:02 PM,no,
+267,2016,21,Jul-31,sou,can,John Bateman,3:36 PM,no,
+268,2016,22,Aug-7,war,gld,Ryan Hoffman,2:39 PM,,
+269,2016,22,Aug-7,wst,nql,Taylor,4:41 PM,no,
+270,2016,23,Aug-11,cby,man,Faitala-Marriner,9:04 PM,no,
+271,2016,23,Aug-12,bri,par,Moreoa,8:28 PM,,
+272,2016,23,Aug-15,can,mel,Harris,7:35 PM,yes,
+273,2016,24,Aug-18,bri,cby,Corey Oates,9:19 PM,,
+274,2016,25,Aug-27,man,can,Taufua,4:18 PM,no,
+275,2016,25,Aug-27,man,can,Bateman,,,
+276,2016,25,Aug-27,gld,pen,Bird,6:19 PM,,
+277,2016,25,Aug-27,cro,syd,Guerra,9:30 PM,,
+278,2016,26,Sep-1,bri,syd,Copley,8:38 PM,,
+279,2016,26,Sep-3,nql,gld,Mead,6:01 PM,yes,
+280,2016,26,Sep-3,mel,cro,Heighington,8:16 PM,no,
+281,2016,26,Sep-4,pen,man,Wallace,7:38 PM,yes,
+282,2016,26,Sep-4,pen,man,Peachey,7:38 PM,,
+283,2016,ef1,Sep-9,bri,gld,McQueen,8:33 PM,yes,
+284,2016,ef1,Sep-9,bri,gld,Ryan Simpkins,9:21 PM,,
+285,2016,qf2,Sep-10,can,cro,Graham,5:49 PM,,7
+286,2017,1,Mar-2,cro,bri,Glenn,8:06 PM,no,
+287,2017,1,Mar-3,cby,mel,Dale Finucane,6:06 PM,yes,
+288,2017,1,Mar-3,sou,wst,Hymel Hunt,7:47 PM,no,
+289,2017,1,Mar-5,war,new,Mannering,2:15 PM,,
+290,2017,2,Mar-9,syd,cby,Hopoate,8:35 PM,,
+291,2017,2,Mar-10,war,mel,Tuivasa-Sheck,6:02 PM,no,
+292,2017,2,Mar-10,bri,nql,Matt Gillett,8:17 PM,,49
+293,2017,2,Mar-10,bri,nql,Bolton,8:38 PM,,
+294,2017,2,Mar-11,new,gld,Joe Greenwood,2:26 PM,yes,
+295,2017,3,Mar-16,mel,bri,Cameron Munster,8:29 PM,,61
+296,2017,3,Mar-17,gld,par,Kane Elgey,,,
+297,2017,3,Mar-17,gld,par,Joe Greenwood,,,
+298,2017,3,Mar-17,gld,par,Ryan Simpkins,,,
+299,2017,3,Mar-18,new,sou,Brendan Elliott,,,
+300,2017,3,Mar-19,cro,sgi,Josh Dugan,,,
+301,2017,3,Mar-19,can,wst,Lawrence,4:36 PM,no,
+302,2017,4,Mar-23,sou,syd,Sam Burgess,8:14 PM,no,
+303,2017,4,Mar-25,par,cro,Pritchard,7:20 PM,,
+304,2017,6,Apr-7,new,cby,Abbey,7:04 PM,no,
+305,2017,6,Apr-7,new,cby,Montoya,7:05 PM,yes,40
+306,2017,7,Apr-14,bri,gld,Sarginson,8:36 PM,yes,
+307,2017,8,Apr-22,cro,gld,McQueen,8:16 PM,yes,
+308,2017,8,Apr-22,cro,gld,McQueen,8:55 PM,,49
+309,2017,8,Apr-23,wst,cby,Tolman,4:31 PM,,
+310,2017,9,Apr-27,bri,pen,Browne,9:20 PM,no,
+311,2017,9,Apr-28,sou,man,Turner,,yes,
+312,2017,9,Apr-28,nql,par,Moreoa,8:38 PM,,39
+313,2017,9,Apr-28,nql,par,Mau,9:25 PM,,
+314,2017,9,Apr-28,nql,par,Pritchard,9:25 PM,yes,
+315,2017,tonga fiji test,May-6,tonga,fiji,Evans,7:22 PM,,77
+316,2017,10,May-12,wst,sou,Cherrington,8:32 PM,,
+317,2017,11,May-20,gld,man,Taufua,7:05 PM,no,
+318,2017,11,May-21,cby,syd,Friend,5:46 PM,,
+319,2017,11,May-21,sou,mel,Reynolds,7:55 PM,,
+320,2017,soo,May-31,nsw,qld,Fifita,8:40 PM,,
+321,2017,soo,May-31,nsw,qld,Pearce,9:33 PM,no,
+322,2017,soo,May-31,nsw,qld,Milford,9:33 PM,no,
+323,2017,13,Jun-4,man,can,Shannon Boyd,2:23 PM,yes,
+324,2017,14,Jun-9,man,new,Ross,6:42 PM,no,
+325,2017,14,Jun-9,man,new,Levi,7:16 PM,,
+326,2017,14,Jun-9,bri,sou,George Burgess,8:35 PM,yes,
+327,2017,14,Jun-12,cby,sgi,Josh Dugan,4:59 PM,yes,
+328,2017,15,Jun-18,par,sgi,Thompson,5:21 PM,no,
+329,2017,soo,Jun-21,nsw,qld,James Tedesco,9:52 PM,yes,
+330,2017,16,Jun-23,war,cby,Elliott,7:07 PM,,46
+331,2017,16,Jun-24,syd,mel,Nicholls,8:58 PM,,
+332,2017,18,Jul-8,mel,par,Tim Mannah,8:03 PM,,
+333,2017,19,Jul-14,can,sgi,Mann,9:20 PM,,
+334,2017,19,Jul-14,can,sgi,Baptiste,9:20 PM,,
+335,2017,19,Jul-14,can,sgi,Bateman,9:22 PM,,
+336,2017,19,Jul-15,new,bri,Peter Matautia,5:50 PM,no,
+337,2017,19,Jul-15,gld,cro,Bukuya,8:39 PM,no,
+338,2017,20,Jul-23,sgi,man,Parker,2:38 PM,yes,
+339,2017,21,Jul-29,new,sgi,Jacob Saiifiti,4:32 PM,yes,
+340,2017,22,Aug-3,cby,par,Brown,8:01 PM,,5
+341,2017,24,Aug-19,syd,wst,Jared Waerea-Hargreaves,5:58 PM,,
+342,2017,25,Aug-24,bri,par,Edwards,9:20 PM,,
+343,2017,25,Aug-25,wst,nql,Jake Granville,8:28 PM,,
+344,2017,26,Aug-31,nql,bri,Jensen,9:32 PM,,
+345,2017,qf1,Sep-9,mel,par,Daniel Alvaro,4:36 PM,,
+346,2017,sf1,Sep-16,par,nql,Daniel Alvaro,7:50 PM,,
+347,2017,22,Aug-4,nql,mel,Kenny Bromwich,9:05 PM,,
+348,2017,24,Aug-19,new,mel,Sione Matautia,3:36 PM,no,
+349,2017,24,Aug-19,nql,cro,Morgan,8:32 PM,,
+350,2017,26,Aug-31,nql,bri,Glenn,9:33 PM,yes,
+351,2017,26,Sep-2,syd,gld,Greenwood,3:33 PM,,
+352,2017,qf1,Sep-9,mel,par,Daniel Alvaro,4:20 PM,,
+353,2017,qf1,Sep-9,mel,par,Moreoa,5:12 PM,no,
+354,2017,sf2,Sep-15,bri,pen,Wallace,8:34 PM,yes,
+355,2017,sf2,Sep-15,bri,pen,Sam Thaiday,9:34 PM,,
+356,2017,sf1,Sep-16,par,nql,Daniel Alvaro,8:04 PM,,
+357,2017,gf,Oct-1,mel,nql,Tim Glasby,8:02 PM,,
+358,2018,1,Mar-9,nql,cro,Graham,7:22 PM,,
+359,2018,2,Mar-17,mel,wst,Naiqama,8:05 PM,,
+360,2018,2,Mar-17,mel,wst,Kasiano,8:13 PM,,
+361,2018,3,Mar-23,wst,bri,Thompson,8:02 PM,yes,
+362,2018,4,Mar-29,nql,pen,Bowen,7:16 PM,,
+363,2018,4,Mar-30,sou,cby,Jennings,3:34 PM,yes,
+364,2018,4,Apr-1,sti,new,Vaughan,5:14 PM,yes,
+365,2018,4,Apr-2,wst,par,Pritchard,5:52 PM,no,
+366,2018,5,Apr-5,can,cby,Brett Morris,8:06 PM,no,
+367,2018,5,Apr-5,can,cby,Hingano,8:38 PM,no,
+368,2018,5,Apr-5,can,cby,Oldfield,9:01 PM,no,
+369,2018,6,Apr-15,pen,gld,Parker,4:40 PM,,
+370,2018,7,Apr-20,war,sti,Harris,6:31 PM,no,
+371,2018,7,Apr-22,par,man,Hayne,2:42 PM,,
+372,2018,7,Apr-22,par,man,Pritchard,2:42 PM,,
+373,2018,10,May-11,cby,par,Elliott,9:34 PM,yes,
+374,2018,10,May-12,war,syd,Papalii,4:46 PM,,
+375,2018,10,May-12,mel,gld,Jacks,6:35 PM,,
+376,2018,10,May-12,mel,gld,Hipgrave,6:46 PM,yes,
+377,2018,10,May-12,mel,gld,Wallace,6:57 PM,yes,
+378,2018,11,May-20,sti,can,Havili,2:44 PM,yes,
+379,2018,13,May-31,man,nql,Taufua,8:57 PM,no,
+380,2018,15,Jun-15,nql,war,Hampton,6:38 PM,,
+381,2018,15,Jun-15,syd,pen,Campbell-Gillard,8:38 PM,,
+382,2018,15,Jun-16,cby,gld,Priest,4:10 PM,no,44
+383,2018,16,Jun-28,sti,par,Lawrie,9:11 PM,,
+384,2018,17,Jul-8,gld,bri,Hipgrave,4:49 PM,no,
+385,2018,17,Jul-8,gld,bri,Staggs,4:49 PM,no,
+386,2018,19,Jul-21,new,gld,Brimson,4:39 PM,no,
+387,2018,20,Jul-27,cby,wst,Garner,8:24 PM,,
+388,2018,20,Jul-27,cby,wst,Elliott,9:36 PM,,75
+389,2018,22,Aug-10,sou,syd,Tedesco,9:42 PM,,
+390,2018,25,Sep-2,bri,man,Tom Trbojevic,4:45 PM,,
+391,2018,20,Jul-27,cby,wst,Mbye,9:38 PM,,
+392,2018,22,Aug-10,sou,syd,T Burgess,8:33 PM,,
+393,2018,23,Aug-17,mel,par,Finucane,9:26 PM,yes,
+394,2018,23,Aug-19,can,syd,Abbey,5:27 PM,,
+395,2018,24,Aug-24,war,pen,Harawira-Naera,7:47 PM,,
+396,2018,24,Aug-24,nql,par,Moreoa,8:38 PM,yes,
+397,2018,ef2,Sep-9,bri,sti,Ofahengaue,4:37 PM,,
+398,2018,gf,Sep-30,syd,mel,Finucane,8:56 PM,yes,
+399,2019,1,Mar-15,syd,sou,Sam Burgess,8:36 PM,,
+400,2019,1,Mar-17,pen,par,Yeo,4:30 PM,yes,
+401,2019,2,Mar-22,bri,nql,MacDonald,8:06 PM,,
+402,2019,2,Mar-23,cro,gld,J Brailey,2:31 PM,,
+403,2019,2,Mar-23,man,syd,Elliott,7:44 PM,yes,
+404,2019,2,Mar-23,man,syd,Collins,7:44 PM,no,
+405,2019,4,Apr-4,syd,bri,Fifita,8:42 PM,,
+406,2019,4,Apr-5,pen,wst,Matterson,7:15 PM,,
+407,2019,5,Apr-11,bri,wst,Jennings,8:17 PM,no,21
+408,2019,6,Apr-22,par,wst,Garner,5:29 PM,,
+409,2019,7,Apr-26,pen,sou,Sam Burgess,9:27 PM,yes,
+410,2019,8,May-2,sou,bri,Tevita Pangai Junior,9:02 PM,yes,
+411,2019,9,May-12,syd,can,Boyd Cordner,,no,14
+412,2019,10,May-16,mel,wst,Ben Matulino,9:23 PM,,
+413,2019,10,May-17,pen,war,Leota,7:03 PM,yes,
+414,2019,11,May-23,par,pen,Fisher-Harris,9:24 PM,no,
+415,2019,11,May-24,man,gld,Hipgrave,7:36 PM,,
+416,2019,11,May-24,new,syd,Radley,8:33 PM,,
+417,2019,11,May-26,cby,mel,Tolman,3:12 PM,,
+418,2019,11,May-26,sgi,cro,Tyson Frizell,4:44 PM,no,
+419,2019,11,May-26,sgi,cro,Josh Dugan,5:01 PM,no,
+420,2019,12,Jun-2,gld,nql,Jensen,5:06 PM,,
+421,2019,13,Jun-8,war,mel,Brodie Croft,3:48 PM,no,40
+422,2019,13,Jun-8,war,mel,Josh Addo-Carr,3:48 PM,yes,40
+423,2019,14,Jun-15,par,bri,David Fifita,7:57 PM,yes,
+424,2019,14,Jun-15,par,bri,Gillett,8:08 PM,yes,
+425,2019,14,Jun-16,syd,cby,Watene-Zelezniak,5:25 PM,,
+426,2019,16,Jul-4,sgi,mel,Stimson,9:29 PM,,
+427,2019,16,Jul-5,wst,syd,Jennings,8:45 PM,,
+428,2019,16,Jul-5,wst,syd,Manu,9:27 PM,no,
+429,2019,18,Jul-20,syd,new,Matautia,4:38 PM,,
+430,2019,18,Jul-21,man,par,Hoffman,5:38 PM,,
+431,2019,19,Jul-25,cro,nql,Kyle Feldt,8:35 PM,,
+432,2019,22,Aug-16,bri,pen,Naden,9:33 PM,,
+433,2019,22,Aug-18,cro,sgi,Kaufusi,,no,
+434,2019,22,Aug-18,cro,sgi,Frizell,5:34 PM,no,
+435,2019,23,Aug-25,can,man,Rapana,4:47 PM,,
+436,2019,24,Aug-29,nql,cby,Molo,9:20 PM,,59
+437,2019,24,Sep-1,cro,can,Morris,2:16 PM,yes,
+438,2019,24,Sep-1,cro,can,Josh Dugan,3:12 PM,no,40
+439,2019,25,Sep-5,sou,syd,Crichton,8:55 PM,,40
+440,2019,25,Sep-5,sou,syd,Tatola,9:17 PM,,59
+441,2019,25,Sep-5,sou,syd,Knight,9:41 PM,,
+442,2019,25,Sep-5,sou,syd,Collins,9:41 PM,,
+443,2019,25,Sep-5,sou,syd,Reynolds,9:49 PM,,
+444,2019,sf2,Sep-20,sou,man,Sam Burgess,9:44 PM,,
+445,2019,sf1,Sep-21,mel,par,Gutherson,9:31 PM,no,
+446,2019,sf1,Sep-21,mel,par,Niukore,9:31 PM,yes,
+447,2019,pf2,Sep-28,syd,mel,Aubusson,9:11 PM,no,
+448,2019,qf1,Sep-14,mel,can,Cotric,6:08 PM,,
+449,2019,ef2,Sep-14,man,cro,Townsend,8:54 PM,,
+450,2019,sf2,Sep-20,sou,man,Johnston,9:20 PM,no,
+451,2019,sf2,Sep-20,sou,man,Doueihi,9:20 PM,,
