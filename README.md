@@ -5,7 +5,7 @@ This is not an exhaustive list, and validated only against media reports, contem
 
 Two files are included:
 
-- nrl_conc_main.csv
+- nrl_conc_main.csv  
 The main file which has the following columns:  
 eventid - the primary key for linking other datasets  
 year - season/year of the game  
