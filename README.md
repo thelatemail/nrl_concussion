@@ -15,7 +15,7 @@ team1 - abbreviation of team 1
 team2 - abbreviation of team 2  
 player - player name (only surname for later years currently)  
 twitter_time - timestamp from Twitter post if relevant  
-returned - passed concussion test/returned to game  
+returned - passed concussion test and/or returned to game  
 event_minute - clock minute within game when initial event occurred  
 
 - **nrl_conc_sources.csv**  
