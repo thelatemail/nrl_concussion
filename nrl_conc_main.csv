@@ -459,3 +459,6 @@ eventid,year,round,date,team1,team2,player,twitter_time,returned,event_minute
 449,2019,ef2,Sep-14,man,cro,Chad Townsend,8:54 PM,,
 450,2019,sf2,Sep-20,sou,man,Alex Johnston,9:20 PM,no,
 451,2019,sf2,Sep-20,sou,man,Adam Doueihi,9:20 PM,,
+452,2020,1,Mar-12,par,cby,Marata Niukore,,yes,54
+453,2020,1,Mar-13,can,gld,Brian Kelly,,no,72
+454,2020,1,Mar-13,can,gld,Jarrod Croker,,no,78
