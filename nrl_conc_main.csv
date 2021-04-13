@@ -285,14 +285,14 @@ eventid,year,round,date,team1,team2,player,twitter_time,returned,event_minute
 284,2016,ef1,Sep-9,bri,gld,Ryan Simpkins,9:21 PM,yes,54
 285,2016,qf2,Sep-10,can,cro,Wade Graham,5:49 PM,no,7
 286,2017,1,Mar-2,cro,bri,Glenn,8:06 PM,no,
-287,2017,1,Mar-3,cby,mel,Dale Finucane,6:06 PM,yes,
+287,2017,1,Mar-3,cby,mel,Dale Finucane,6:06 PM,yes,26
 288,2017,1,Mar-3,sou,wst,Hymel Hunt,7:47 PM,no,
-289,2017,1,Mar-5,war,new,Mannering,2:15 PM,,
-290,2017,2,Mar-9,syd,cby,Hopoate,8:35 PM,,
-291,2017,2,Mar-10,war,mel,Tuivasa-Sheck,6:02 PM,no,
-292,2017,2,Mar-10,bri,nql,Matt Gillett,8:17 PM,,49
-293,2017,2,Mar-10,bri,nql,Bolton,8:38 PM,,
-294,2017,2,Mar-11,new,gld,Joe Greenwood,2:26 PM,yes,
+289,2017,1,Mar-5,war,new,Simon Mannering,2:15 PM,no,49
+290,2017,2,Mar-9,syd,cby,Will Hopoate,8:35 PM,no,66
+291,2017,2,Mar-10,war,mel,Roger Tuivasa-Sheck,6:02 PM,no,
+292,2017,2,Mar-10,bri,nql,Matt Gillett,8:17 PM,no,49
+293,2017,2,Mar-10,bri,nql,Scott Bolton,8:38 PM,yes,67
+294,2017,2,Mar-11,new,gld,Joe Greenwood,2:26 PM,yes,3
 295,2017,3,Mar-16,mel,bri,Cameron Munster,8:29 PM,,61
 296,2017,3,Mar-17,gld,par,Kane Elgey,,,
 297,2017,3,Mar-17,gld,par,Joe Greenwood,,,
