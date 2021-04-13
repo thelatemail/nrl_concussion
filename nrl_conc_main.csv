@@ -293,15 +293,13 @@ eventid,year,round,date,team1,team2,player,twitter_time,returned,event_minute
 292,2017,2,Mar-10,bri,nql,Matt Gillett,8:17 PM,no,49
 293,2017,2,Mar-10,bri,nql,Scott Bolton,8:38 PM,yes,67
 294,2017,2,Mar-11,new,gld,Joe Greenwood,2:26 PM,yes,3
-295,2017,3,Mar-16,mel,bri,Cameron Munster,8:29 PM,,61
-296,2017,3,Mar-17,gld,par,Kane Elgey,,,
-297,2017,3,Mar-17,gld,par,Joe Greenwood,,,
-298,2017,3,Mar-17,gld,par,Ryan Simpkins,,,
+295,2017,3,Mar-16,mel,bri,Cameron Munster,8:29 PM,no,61
+298,2017,3,Mar-17,gld,par,Ryan Simpkins,,yes,42
 299,2017,3,Mar-18,new,sou,Brendan Elliott,,,
 300,2017,3,Mar-19,cro,sgi,Josh Dugan,,,
 301,2017,3,Mar-19,can,wst,Lawrence,4:36 PM,no,
-302,2017,4,Mar-23,sou,syd,Sam Burgess,8:14 PM,no,
-303,2017,4,Mar-25,par,cro,Pritchard,7:20 PM,,
+302,2017,4,Mar-23,sou,syd,Sam Burgess,8:14 PM,no,40
+303,2017,4,Mar-25,par,cro,Frank Pritchard,7:20 PM,yes,58
 304,2017,6,Apr-7,new,cby,Abbey,7:04 PM,no,
 305,2017,6,Apr-7,new,cby,Montoya,7:05 PM,yes,40
 306,2017,7,Apr-14,bri,gld,Sarginson,8:36 PM,yes,
