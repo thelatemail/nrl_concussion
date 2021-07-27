@@ -308,6 +308,9 @@ eventid,year,round,date,team1,team2,player,twitter_time,returned,event_minute
 301,2017,3,Mar-19,can,wst,Lawrence,4:36 PM,no,
 302,2017,4,Mar-23,sou,syd,Sam Burgess,8:14 PM,no,40
 303,2017,4,Mar-25,par,cro,Frank Pritchard,7:20 PM,yes,58
+,2017,4,Mar-24,pen,new,Jacob Saifiti,,yes,29
+,2017,4,Mar-24,pen,new,Danny Levi,,yes,49
+,2017,4,Mar-26,wst,mel,Kenneath Bromwich,,yes,22
 304,2017,6,Apr-7,new,cby,Abbey,7:04 PM,no,
 305,2017,6,Apr-7,new,cby,Montoya,7:05 PM,yes,40
 306,2017,7,Apr-14,bri,gld,Sarginson,8:36 PM,yes,
