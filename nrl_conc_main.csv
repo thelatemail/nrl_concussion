@@ -287,7 +287,13 @@ eventid,year,round,date,team1,team2,player,twitter_time,returned,event_minute
 286,2017,1,Mar-2,cro,bri,Alex Glenn,8:06 PM,no,40
 287,2017,1,Mar-3,cby,mel,Dale Finucane,6:06 PM,yes,26
 288,2017,1,Mar-3,sou,wst,Hymel Hunt,7:47 PM,no,21
+,2017,1,Mar-4,sgi,pen,Peter Wallace,,yes,56
+,2017,1,Mar-4,nql,can,Shannon Boyd,,yes,16
+,2017,1,Mar-4,nql,can,Jake Granville,,no,46
 289,2017,1,Mar-5,war,new,Simon Mannering,2:15 PM,no,49
+,2017,1,Mar-5,war,new,Charlie Gubb,,no,77
+,2017,1,Mar-5,war,new,Mitchell Barnett,,yes,18
+,2017,1,Mar-5,man,par,Tim Mannah,,yes,22
 290,2017,2,Mar-9,syd,cby,Will Hopoate,8:35 PM,no,66
 291,2017,2,Mar-10,war,mel,Roger Tuivasa-Sheck,6:02 PM,no,27
 292,2017,2,Mar-10,bri,nql,Matt Gillett,8:17 PM,no,49
@@ -296,6 +302,8 @@ eventid,year,round,date,team1,team2,player,twitter_time,returned,event_minute
 295,2017,3,Mar-16,mel,bri,Cameron Munster,8:29 PM,no,61
 298,2017,3,Mar-17,gld,par,Ryan Simpkins,,yes,42
 299,2017,3,Mar-18,new,sou,Brendan Elliott,,,
+,2017,3,Mar-18,new,sou,Jack Stockwell,,no,56
+,2017,3,Mar-18,new,sou,Sam Burgess,,yes,30
 300,2017,3,Mar-19,cro,sgi,Josh Dugan,,,
 301,2017,3,Mar-19,can,wst,Lawrence,4:36 PM,no,
 302,2017,4,Mar-23,sou,syd,Sam Burgess,8:14 PM,no,40
